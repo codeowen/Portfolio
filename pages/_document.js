@@ -23,6 +23,7 @@ class MyDocument extends Document {
           <meta name="twitter:title" content={meta.title} />
           <meta name="twitter:description" content={meta.description} />
           <meta name="theme-color" content="#6342f5" />
+          <script async src="https://arc.io/widget.min.js#jQXtqgvi"></script>
         </Head>
         <body>
           <Main />
